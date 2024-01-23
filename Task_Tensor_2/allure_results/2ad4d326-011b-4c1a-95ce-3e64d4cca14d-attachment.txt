@@ -1,0 +1,6 @@
+[32mINFO    [0m utilitiesPackage.logger:test_task_2.py:24 test2. Checking the region and list of partners
+[32mINFO    [0m utilitiesPackage.logger:test_task_2.py:27 test2. Open contacts page
+[32mINFO    [0m utilitiesPackage.logger:test_task_2.py:32 test2. Expected region is Свердловская область
+[32mINFO    [0m utilitiesPackage.logger:test_task_2.py:35 test2. Passed
+[32mINFO    [0m utilitiesPackage.logger:test_task_2.py:43 test2. List partners is displayed
+[32mINFO    [0m utilitiesPackage.logger:test_task_2.py:47 test2. Passed

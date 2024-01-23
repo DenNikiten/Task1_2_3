@@ -1,0 +1,78 @@
+2024-01-23 05:14:20,380 :INFO : utilitiesPackage.logger :An information statement is executed
+2024-01-23 05:14:20,380 :WARNING : utilitiesPackage.logger :A warning message is executed
+2024-01-23 05:14:20,380 :ERROR : utilitiesPackage.logger :An error message is executed
+2024-01-23 05:14:20,380 :CRITICAL : utilitiesPackage.logger :A critical message is executed
+2024-01-23 05:14:21,728 :INFO : utilitiesPackage.logger :***test1. Open sbis page***
+2024-01-23 05:14:21,728 :INFO : utilitiesPackage.logger :test1. Open https://sbis.ru/
+2024-01-23 05:14:30,868 :INFO : utilitiesPackage.logger :***test2. Go to download sbis page***
+2024-01-23 05:14:30,868 :INFO : utilitiesPackage.logger :test2. Open https://sbis.ru/
+2024-01-23 05:14:32,970 :INFO : utilitiesPackage.logger :test2. Checking that download sbis is displayed
+2024-01-23 05:14:33,077 :INFO : utilitiesPackage.logger :test2. Passed
+2024-01-23 05:14:34,088 :INFO : utilitiesPackage.logger :test2. Click on the download sbis btn
+2024-01-23 05:14:44,750 :INFO : utilitiesPackage.logger :***test3. Download sbis plugin***
+2024-01-23 05:14:44,750 :INFO : utilitiesPackage.logger :test3. Open https://sbis.ru/
+2024-01-23 05:14:46,664 :INFO : utilitiesPackage.logger :test3. Click on the download sbis btn
+2024-01-23 05:14:47,801 :INFO : utilitiesPackage.logger :test3. Time to switch to plugin
+2024-01-23 05:14:48,811 :INFO : utilitiesPackage.logger :test3. Go to sbis plugin tabbutton
+2024-01-23 05:14:48,949 :INFO : utilitiesPackage.logger :test3. Options for downloading a file to a folder
+2024-01-23 05:14:48,953 :INFO : utilitiesPackage.logger :test3. Click sbis plugin for download web-installer
+2024-01-23 05:14:49,304 :INFO : utilitiesPackage.logger :test3. Time to download the file to the folder
+2024-01-23 05:15:06,836 :INFO : utilitiesPackage.logger :***test4. Download file web-installer***
+2024-01-23 05:15:06,836 :INFO : utilitiesPackage.logger :test4. Open https://sbis.ru/
+2024-01-23 05:15:08,168 :INFO : utilitiesPackage.logger :test4. Click on the download sbis btn
+2024-01-23 05:15:09,502 :INFO : utilitiesPackage.logger :test4. Time to switch to plugin
+2024-01-23 05:15:10,516 :INFO : utilitiesPackage.logger :test4. Go to sbis plugin tabbutton
+2024-01-23 05:15:10,732 :INFO : utilitiesPackage.logger :test4. Options for downloading a file to a folder
+2024-01-23 05:15:10,737 :INFO : utilitiesPackage.logger :test4. Click sbis plugin for download web-installer
+2024-01-23 05:15:11,049 :INFO : utilitiesPackage.logger :test4. Time to download the file to the folder
+2024-01-23 05:15:21,058 :INFO : utilitiesPackage.logger :test4. Checking that the file has been downloaded
+2024-01-23 05:15:21,058 :INFO : utilitiesPackage.logger :test4. Passed
+2024-01-23 05:15:28,640 :INFO : utilitiesPackage.logger :***test5. Check file size***
+2024-01-23 05:15:28,640 :INFO : utilitiesPackage.logger :test5. Open https://sbis.ru/
+2024-01-23 05:15:30,072 :INFO : utilitiesPackage.logger :test5. Click on the download sbis btn
+2024-01-23 05:15:31,653 :INFO : utilitiesPackage.logger :test5. Time to switch to plugin
+2024-01-23 05:15:32,659 :INFO : utilitiesPackage.logger :test5. Go to sbis plugin tabbutton
+2024-01-23 05:15:32,783 :INFO : utilitiesPackage.logger :test5. Options for downloading a file to a folder
+2024-01-23 05:15:32,786 :INFO : utilitiesPackage.logger :test5. Click sbis plugin for download web-installer
+2024-01-23 05:15:33,127 :INFO : utilitiesPackage.logger :test5. Time to download the file to the folder
+2024-01-23 05:15:43,135 :INFO : utilitiesPackage.logger :test5. Checking the size of the downloaded file in MB
+2024-01-23 05:15:43,135 :INFO : utilitiesPackage.logger :test5. Passed
+2024-01-23 05:17:19,302 :INFO : utilitiesPackage.logger :An information statement is executed
+2024-01-23 05:17:19,302 :WARNING : utilitiesPackage.logger :A warning message is executed
+2024-01-23 05:17:19,302 :ERROR : utilitiesPackage.logger :An error message is executed
+2024-01-23 05:17:19,302 :CRITICAL : utilitiesPackage.logger :A critical message is executed
+2024-01-23 05:17:20,683 :INFO : utilitiesPackage.logger :***test1. Open sbis page***
+2024-01-23 05:17:20,684 :INFO : utilitiesPackage.logger :test1. Open https://sbis.ru/
+2024-01-23 05:17:30,103 :INFO : utilitiesPackage.logger :***test2. Go to download sbis page***
+2024-01-23 05:17:30,103 :INFO : utilitiesPackage.logger :test2. Open https://sbis.ru/
+2024-01-23 05:17:32,057 :INFO : utilitiesPackage.logger :test2. Checking that download sbis is displayed
+2024-01-23 05:17:32,118 :INFO : utilitiesPackage.logger :test2. Passed
+2024-01-23 05:17:33,131 :INFO : utilitiesPackage.logger :test2. Click on the download sbis btn
+2024-01-23 05:17:44,121 :INFO : utilitiesPackage.logger :***test3. Download sbis plugin***
+2024-01-23 05:17:44,121 :INFO : utilitiesPackage.logger :test3. Open https://sbis.ru/
+2024-01-23 05:17:45,945 :INFO : utilitiesPackage.logger :test3. Click on the download sbis btn
+2024-01-23 05:17:47,163 :INFO : utilitiesPackage.logger :test3. Time to switch to plugin
+2024-01-23 05:17:48,165 :INFO : utilitiesPackage.logger :test3. Go to sbis plugin tabbutton
+2024-01-23 05:17:48,297 :INFO : utilitiesPackage.logger :test3. Options for downloading a file to a folder
+2024-01-23 05:17:48,300 :INFO : utilitiesPackage.logger :test3. Click sbis plugin for download web-installer
+2024-01-23 05:17:48,613 :INFO : utilitiesPackage.logger :test3. Time to download the file to the folder
+2024-01-23 05:18:06,174 :INFO : utilitiesPackage.logger :***test4. Download file web-installer***
+2024-01-23 05:18:06,174 :INFO : utilitiesPackage.logger :test4. Open https://sbis.ru/
+2024-01-23 05:18:08,065 :INFO : utilitiesPackage.logger :test4. Click on the download sbis btn
+2024-01-23 05:18:09,133 :INFO : utilitiesPackage.logger :test4. Time to switch to plugin
+2024-01-23 05:18:10,143 :INFO : utilitiesPackage.logger :test4. Go to sbis plugin tabbutton
+2024-01-23 05:18:10,446 :INFO : utilitiesPackage.logger :test4. Options for downloading a file to a folder
+2024-01-23 05:18:10,451 :INFO : utilitiesPackage.logger :test4. Click sbis plugin for download web-installer
+2024-01-23 05:18:10,847 :INFO : utilitiesPackage.logger :test4. Time to download the file to the folder
+2024-01-23 05:18:20,847 :INFO : utilitiesPackage.logger :test4. Checking that the file has been downloaded
+2024-01-23 05:18:20,848 :INFO : utilitiesPackage.logger :test4. Passed
+2024-01-23 05:18:28,502 :INFO : utilitiesPackage.logger :***test5. Check file size***
+2024-01-23 05:18:28,503 :INFO : utilitiesPackage.logger :test5. Open https://sbis.ru/
+2024-01-23 05:18:30,464 :INFO : utilitiesPackage.logger :test5. Click on the download sbis btn
+2024-01-23 05:18:31,794 :INFO : utilitiesPackage.logger :test5. Time to switch to plugin
+2024-01-23 05:18:32,798 :INFO : utilitiesPackage.logger :test5. Go to sbis plugin tabbutton
+2024-01-23 05:18:32,914 :INFO : utilitiesPackage.logger :test5. Options for downloading a file to a folder
+2024-01-23 05:18:32,918 :INFO : utilitiesPackage.logger :test5. Click sbis plugin for download web-installer
+2024-01-23 05:18:33,252 :INFO : utilitiesPackage.logger :test5. Time to download the file to the folder
+2024-01-23 05:18:43,253 :INFO : utilitiesPackage.logger :test5. Checking the size of the downloaded file in MB
+2024-01-23 05:18:43,253 :INFO : utilitiesPackage.logger :test5. Passed

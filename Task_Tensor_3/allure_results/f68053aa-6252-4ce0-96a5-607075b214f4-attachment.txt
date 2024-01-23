@@ -1,0 +1,10 @@
+[32mINFO    [0m utilitiesPackage.logger:test_task_3.py:75 ***test4. Download file web-installer***
+[32mINFO    [0m utilitiesPackage.logger:test_task_3.py:78 test4. Open https://sbis.ru/
+[32mINFO    [0m utilitiesPackage.logger:test_task_3.py:81 test4. Click on the download sbis btn
+[32mINFO    [0m utilitiesPackage.logger:test_task_3.py:85 test4. Time to switch to plugin
+[32mINFO    [0m utilitiesPackage.logger:test_task_3.py:90 test4. Go to sbis plugin tabbutton
+[32mINFO    [0m utilitiesPackage.logger:test_task_3.py:93 test4. Options for downloading a file to a folder
+[32mINFO    [0m utilitiesPackage.logger:test_task_3.py:96 test4. Click sbis plugin for download web-installer
+[32mINFO    [0m utilitiesPackage.logger:test_task_3.py:99 test4. Time to download the file to the folder
+[32mINFO    [0m utilitiesPackage.logger:test_task_3.py:103 test4. Checking that the file has been downloaded
+[32mINFO    [0m utilitiesPackage.logger:test_task_3.py:106 test4. Passed

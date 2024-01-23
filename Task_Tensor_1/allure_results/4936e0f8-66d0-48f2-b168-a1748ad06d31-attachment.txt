@@ -1,0 +1,10 @@
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:81 ***test4. Check block***
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:84 test4. Open https://sbis.ru/
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:87 test4. Click button. Go to contacts page
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:90 test4. Click on the banner tensor
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:93 test4. tensor_page Object
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:96 test4. Switch to https://tensor.ru/
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:100 test4. The block is displayed
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:103 test4. Passed
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:111 test4. Checking block name
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:114 test4. Passed

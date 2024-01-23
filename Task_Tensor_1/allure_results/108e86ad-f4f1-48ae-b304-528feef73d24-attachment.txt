@@ -1,0 +1,12 @@
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:157 test6. The section is displayed - Working and have the same height and width photographs
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:160 test6. Open https://sbis.ru/
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:163 test6. Click button. Go to contacts page
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:166 test6. Click on the banner tensor
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:169 test6. tensor_page Object
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:172 test6. Switch to https://tensor.ru/
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:175 test6. Scroll and go to more details button
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:178 test6. tensor_about_page Object
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:182 test6. The section is displayed - Working
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:185 test6. Passed
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:193 test6. Timeline photographs have the same height and width
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:196 test6. Passed

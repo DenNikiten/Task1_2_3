@@ -1,0 +1,2 @@
+[32mINFO    [0m utilitiesPackage.logger:test_task_3.py:13 ***test1. Open sbis page***
+[32mINFO    [0m utilitiesPackage.logger:test_task_3.py:16 test1. Open https://sbis.ru/

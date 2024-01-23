@@ -1,0 +1,6 @@
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:24 ***test2. Find banner tensor and click***
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:27 test2. Open https://sbis.ru/
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:30 test2. Click button. Go to contacts page
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:34 test2. Banner tensor is displayed
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:37 test2. Passed
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:45 test2. Click on the banner tensor

@@ -1,0 +1,16 @@
+[32mINFO    [0m utilitiesPackage.logger:test_task_2.py:78 test4. Data checking: region, title, url, list of partners
+[32mINFO    [0m utilitiesPackage.logger:test_task_2.py:82 test4. Open contacts page
+[32mINFO    [0m utilitiesPackage.logger:test_task_2.py:87 test4. Save ekb contacts
+[32mINFO    [0m utilitiesPackage.logger:test_task_2.py:91 test4. Go to the window to change the region
+[32mINFO    [0m utilitiesPackage.logger:test_task_2.py:95 test4. Click on a region to change it
+[32mINFO    [0m utilitiesPackage.logger:test_task_2.py:99 test4. Data checking: region, title, url, list of partners
+[32mINFO    [0m utilitiesPackage.logger:test_task_2.py:105 test4. Save ekb contacts
+[32mINFO    [0m utilitiesPackage.logger:test_task_2.py:109 test4. Data checking
+[32mINFO    [0m utilitiesPackage.logger:test_task_2.py:111 test4. Checking for new region substitution
+[32mINFO    [0m utilitiesPackage.logger:test_task_2.py:115 test4. Passed
+[32mINFO    [0m utilitiesPackage.logger:test_task_2.py:123 test4. Selected region in url
+[32mINFO    [0m utilitiesPackage.logger:test_task_2.py:127 test4. Passed
+[32mINFO    [0m utilitiesPackage.logger:test_task_2.py:135 test4. Selected region in title
+[32mINFO    [0m utilitiesPackage.logger:test_task_2.py:139 test4. Passed
+[32mINFO    [0m utilitiesPackage.logger:test_task_2.py:147 test4. The list of partners has changed
+[32mINFO    [0m utilitiesPackage.logger:test_task_2.py:151 test4. Passed

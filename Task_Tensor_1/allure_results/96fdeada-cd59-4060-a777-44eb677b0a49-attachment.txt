@@ -1,0 +1,3 @@
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:13 ***test1. Open contacts page***
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:16 test1. Open https://sbis.ru/
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:19 test1. Click button. Go to contacts page

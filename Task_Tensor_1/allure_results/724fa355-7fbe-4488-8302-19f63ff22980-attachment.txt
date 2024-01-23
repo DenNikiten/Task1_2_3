@@ -1,0 +1,8 @@
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:50 ***test3. Switch to tensor website***
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:53 test3. Open https://sbis.ru/
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:56 test3. Click button. Go to contacts page
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:59 test3. Click on the banner tensor
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:62 test3. tensor_page Object
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:65 test3. Switch to https://tensor.ru/
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:69 test3. Checking that https://tensor.ru/ opens
+[32mINFO    [0m utilitiesPackage.logger:test_task_1.py:72 test3. Passed

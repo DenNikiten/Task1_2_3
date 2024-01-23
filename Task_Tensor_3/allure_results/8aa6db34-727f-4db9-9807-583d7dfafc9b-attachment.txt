@@ -1,0 +1,5 @@
+[32mINFO    [0m utilitiesPackage.logger:test_task_3.py:21 ***test2. Go to download sbis page***
+[32mINFO    [0m utilitiesPackage.logger:test_task_3.py:24 test2. Open https://sbis.ru/
+[32mINFO    [0m utilitiesPackage.logger:test_task_3.py:28 test2. Checking that download sbis is displayed
+[32mINFO    [0m utilitiesPackage.logger:test_task_3.py:31 test2. Passed
+[32mINFO    [0m utilitiesPackage.logger:test_task_3.py:40 test2. Click on the download sbis btn

@@ -1,0 +1,52 @@
+2024-01-22 11:00:38,124 :INFO : utilitiesPackage.logger :An information statement is executed
+2024-01-22 11:00:38,124 :WARNING : utilitiesPackage.logger :A warning message is executed
+2024-01-22 11:00:38,124 :ERROR : utilitiesPackage.logger :An error message is executed
+2024-01-22 11:00:38,124 :CRITICAL : utilitiesPackage.logger :A critical message is executed
+2024-01-22 11:00:39,508 :INFO : utilitiesPackage.logger :***test1. Open contacts page***
+2024-01-22 11:00:39,509 :INFO : utilitiesPackage.logger :test1. Open https://sbis.ru/
+2024-01-22 11:00:41,456 :INFO : utilitiesPackage.logger :test1. Click button. Go to contacts page
+2024-01-22 11:00:49,953 :INFO : utilitiesPackage.logger :***test2. Find banner tensor and click***
+2024-01-22 11:00:49,953 :INFO : utilitiesPackage.logger :test2. Open https://sbis.ru/
+2024-01-22 11:00:52,069 :INFO : utilitiesPackage.logger :test2. Click button. Go to contacts page
+2024-01-22 11:00:52,725 :INFO : utilitiesPackage.logger :test2. Banner tensor is displayed
+2024-01-22 11:00:52,875 :INFO : utilitiesPackage.logger :test2. Passed
+2024-01-22 11:00:52,875 :INFO : utilitiesPackage.logger :test2. Click on the banner tensor
+2024-01-22 11:01:00,797 :INFO : utilitiesPackage.logger :***test3. Switch to tensor website***
+2024-01-22 11:01:00,797 :INFO : utilitiesPackage.logger :test3. Open https://sbis.ru/
+2024-01-22 11:01:02,878 :INFO : utilitiesPackage.logger :test3. Click button. Go to contacts page
+2024-01-22 11:01:03,558 :INFO : utilitiesPackage.logger :test3. Click on the banner tensor
+2024-01-22 11:01:04,015 :INFO : utilitiesPackage.logger :test3. tensor_page Object
+2024-01-22 11:01:04,015 :INFO : utilitiesPackage.logger :test3. Switch to https://tensor.ru/
+2024-01-22 11:01:04,029 :INFO : utilitiesPackage.logger :test3. Checking that https://tensor.ru/ opens
+2024-01-22 11:01:05,796 :INFO : utilitiesPackage.logger :test3. Passed
+2024-01-22 11:01:13,432 :INFO : utilitiesPackage.logger :***test4. Check block***
+2024-01-22 11:01:13,432 :INFO : utilitiesPackage.logger :test4. Open https://sbis.ru/
+2024-01-22 11:01:14,902 :INFO : utilitiesPackage.logger :test4. Click button. Go to contacts page
+2024-01-22 11:01:15,551 :INFO : utilitiesPackage.logger :test4. Click on the banner tensor
+2024-01-22 11:01:16,223 :INFO : utilitiesPackage.logger :test4. tensor_page Object
+2024-01-22 11:01:16,223 :INFO : utilitiesPackage.logger :test4. Switch to https://tensor.ru/
+2024-01-22 11:01:16,232 :INFO : utilitiesPackage.logger :test4. The block is displayed
+2024-01-22 11:01:17,902 :INFO : utilitiesPackage.logger :test4. Passed
+2024-01-22 11:01:17,902 :INFO : utilitiesPackage.logger :test4. Checking block name
+2024-01-22 11:01:17,923 :INFO : utilitiesPackage.logger :test4. Passed
+2024-01-22 11:01:25,554 :INFO : utilitiesPackage.logger :***test5. Go to more details button***
+2024-01-22 11:01:25,554 :INFO : utilitiesPackage.logger :test5. Open https://sbis.ru/
+2024-01-22 11:01:27,523 :INFO : utilitiesPackage.logger :test5. Click button. Go to contacts page
+2024-01-22 11:01:28,250 :INFO : utilitiesPackage.logger :test5. Click on the banner tensor
+2024-01-22 11:01:28,652 :INFO : utilitiesPackage.logger :test5. tensor_page Object
+2024-01-22 11:01:28,653 :INFO : utilitiesPackage.logger :test5. Switch to https://tensor.ru/
+2024-01-22 11:01:28,666 :INFO : utilitiesPackage.logger :test5. Scroll and go to more details button
+2024-01-22 11:01:35,027 :INFO : utilitiesPackage.logger :test5. Checking that https://tensor.ru/about opens
+2024-01-22 11:01:35,035 :INFO : utilitiesPackage.logger :test5. Passed
+2024-01-22 11:01:42,600 :INFO : utilitiesPackage.logger :test6. The section is displayed - Working and have the same height and width photographs
+2024-01-22 11:01:42,600 :INFO : utilitiesPackage.logger :test6. Open https://sbis.ru/
+2024-01-22 11:01:44,825 :INFO : utilitiesPackage.logger :test6. Click button. Go to contacts page
+2024-01-22 11:01:45,622 :INFO : utilitiesPackage.logger :test6. Click on the banner tensor
+2024-01-22 11:01:46,029 :INFO : utilitiesPackage.logger :test6. tensor_page Object
+2024-01-22 11:01:46,030 :INFO : utilitiesPackage.logger :test6. Switch to https://tensor.ru/
+2024-01-22 11:01:46,043 :INFO : utilitiesPackage.logger :test6. Scroll and go to more details button
+2024-01-22 11:01:53,356 :INFO : utilitiesPackage.logger :test6. tensor_about_page Object
+2024-01-22 11:01:53,356 :INFO : utilitiesPackage.logger :test6. The section is displayed - Working
+2024-01-22 11:01:53,390 :INFO : utilitiesPackage.logger :test6. Passed
+2024-01-22 11:01:53,390 :INFO : utilitiesPackage.logger :test6. Timeline photographs have the same height and width
+2024-01-22 11:01:53,532 :INFO : utilitiesPackage.logger :test6. Passed

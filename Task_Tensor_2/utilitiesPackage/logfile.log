@@ -1,0 +1,34 @@
+2024-01-22 17:58:48,036 :INFO : utilitiesPackage.logger :An information statement is executed
+2024-01-22 17:58:48,037 :WARNING : utilitiesPackage.logger :A warning message is executed
+2024-01-22 17:58:48,037 :ERROR : utilitiesPackage.logger :An error message is executed
+2024-01-22 17:58:48,037 :CRITICAL : utilitiesPackage.logger :A critical message is executed
+2024-01-22 17:58:49,400 :INFO : utilitiesPackage.logger :test1. Open contacts page
+2024-01-22 17:58:49,400 :INFO : utilitiesPackage.logger :test1. Open https://sbis.ru/
+2024-01-22 17:58:51,279 :INFO : utilitiesPackage.logger :test1. Click button. Go to contacts page
+2024-01-22 17:58:59,427 :INFO : utilitiesPackage.logger :test2. Checking the region and list of partners
+2024-01-22 17:58:59,427 :INFO : utilitiesPackage.logger :test2. Open contacts page
+2024-01-22 17:59:02,311 :INFO : utilitiesPackage.logger :test2. Expected region is Свердловская область
+2024-01-22 17:59:02,397 :INFO : utilitiesPackage.logger :test2. Passed
+2024-01-22 17:59:02,397 :INFO : utilitiesPackage.logger :test2. List partners is displayed
+2024-01-22 17:59:02,656 :INFO : utilitiesPackage.logger :test2. Passed
+2024-01-22 17:59:10,143 :INFO : utilitiesPackage.logger :test3. Change region
+2024-01-22 17:59:10,143 :INFO : utilitiesPackage.logger :test3. Open contacts page
+2024-01-22 17:59:12,654 :INFO : utilitiesPackage.logger :test3. Go to the window to change the region
+2024-01-22 17:59:13,027 :INFO : utilitiesPackage.logger :test3. Go to the window to change the region
+2024-01-22 17:59:13,027 :INFO : utilitiesPackage.logger :test3. Click on a region to change it
+2024-01-22 17:59:20,827 :INFO : utilitiesPackage.logger :test4. Data checking: region, title, url, list of partners
+2024-01-22 17:59:20,827 :INFO : utilitiesPackage.logger :test4. Open contacts page
+2024-01-22 17:59:23,408 :INFO : utilitiesPackage.logger :test4. Save ekb contacts
+2024-01-22 17:59:23,911 :INFO : utilitiesPackage.logger :test4. Go to the window to change the region
+2024-01-22 17:59:23,967 :INFO : utilitiesPackage.logger :test4. Click on a region to change it
+2024-01-22 17:59:24,204 :INFO : utilitiesPackage.logger :test4. Data checking: region, title, url, list of partners
+2024-01-22 17:59:25,220 :INFO : utilitiesPackage.logger :test4. Save ekb contacts
+2024-01-22 17:59:25,244 :INFO : utilitiesPackage.logger :test4. Data checking
+2024-01-22 17:59:25,244 :INFO : utilitiesPackage.logger :test4. Checking for new region substitution
+2024-01-22 17:59:25,260 :INFO : utilitiesPackage.logger :test4. Passed
+2024-01-22 17:59:25,260 :INFO : utilitiesPackage.logger :test4. Selected region in url
+2024-01-22 17:59:25,264 :INFO : utilitiesPackage.logger :test4. Passed
+2024-01-22 17:59:25,264 :INFO : utilitiesPackage.logger :test4. Selected region in title
+2024-01-22 17:59:25,267 :INFO : utilitiesPackage.logger :test4. Passed
+2024-01-22 17:59:25,267 :INFO : utilitiesPackage.logger :test4. The list of partners has changed
+2024-01-22 17:59:25,267 :INFO : utilitiesPackage.logger :test4. Passed

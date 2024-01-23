@@ -1,0 +1,10 @@
+[32mINFO    [0m utilitiesPackage.logger:test_task_3.py:115 ***test5. Check file size***
+[32mINFO    [0m utilitiesPackage.logger:test_task_3.py:118 test5. Open https://sbis.ru/
+[32mINFO    [0m utilitiesPackage.logger:test_task_3.py:121 test5. Click on the download sbis btn
+[32mINFO    [0m utilitiesPackage.logger:test_task_3.py:125 test5. Time to switch to plugin
+[32mINFO    [0m utilitiesPackage.logger:test_task_3.py:130 test5. Go to sbis plugin tabbutton
+[32mINFO    [0m utilitiesPackage.logger:test_task_3.py:133 test5. Options for downloading a file to a folder
+[32mINFO    [0m utilitiesPackage.logger:test_task_3.py:136 test5. Click sbis plugin for download web-installer
+[32mINFO    [0m utilitiesPackage.logger:test_task_3.py:139 test5. Time to download the file to the folder
+[32mINFO    [0m utilitiesPackage.logger:test_task_3.py:143 test5. Checking the size of the downloaded file in MB
+[32mINFO    [0m utilitiesPackage.logger:test_task_3.py:146 test5. Passed

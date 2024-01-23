@@ -1,0 +1,5 @@
+[32mINFO    [0m utilitiesPackage.logger:test_task_2.py:55 test3. Change region
+[32mINFO    [0m utilitiesPackage.logger:test_task_2.py:59 test3. Open contacts page
+[32mINFO    [0m utilitiesPackage.logger:test_task_2.py:64 test3. Go to the window to change the region
+[32mINFO    [0m utilitiesPackage.logger:test_task_2.py:68 test3. Go to the window to change the region
+[32mINFO    [0m utilitiesPackage.logger:test_task_2.py:71 test3. Click on a region to change it
