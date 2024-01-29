@@ -54,7 +54,7 @@ class TestTask1:
         self.generateLog.info("test3. Time to switch to plugin")
         time.sleep(1)
         # Вместо time.sleep(1)
-        # Правильнее использовать WebDriverWait(browser, 10).until(EC.visibility_of_element_located((By.XPATH, path...))).click()
+        # Правильнее использовать WebDriverWait(browser, 10).until(EC.visibility_of_element_located((By.XPATH, path...)))
 
         sbis_download_page = SbisDownloadPage(browser)
         # log
@@ -85,7 +85,7 @@ class TestTask1:
         self.generateLog.info("test4. Time to switch to plugin")
         time.sleep(1)
         # Вместо time.sleep(1)
-        # Правильнее использовать WebDriverWait(browser, 10).until(EC.visibility_of_element_located((By.XPATH, path...))).click()
+        # Правильнее использовать WebDriverWait(browser, 10).until(EC.visibility_of_element_located((By.XPATH, path...)))
 
         sbis_download_page = SbisDownloadPage(browser)
         # log
@@ -127,7 +127,7 @@ class TestTask1:
         self.generateLog.info("test5. Time to switch to plugin")
         time.sleep(1)
         # Вместо time.sleep(1)
-        # Правильнее использовать WebDriverWait(browser, 10).until(EC.visibility_of_element_located((By.XPATH, path...))).click()
+        # Правильнее использовать WebDriverWait(browser, 10).until(EC.visibility_of_element_located((By.XPATH, path...)))
 
         sbis_download_page = SbisDownloadPage(browser)
         # log
