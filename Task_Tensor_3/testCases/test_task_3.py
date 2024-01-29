@@ -1,7 +1,9 @@
-import time
+# from selenium.webdriver.support import expected_conditions as EC
+# from selenium.webdriver.support.ui import WebDriverWait
 from pageObjects.SbisDownloadPage import SbisDownloadPage
 from utilitiesPackage.logger import LogGen
 from pageObjects.SbisPage import SbisPage
+import time
 
 
 class TestTask1:
